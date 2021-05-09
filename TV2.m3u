@@ -1,381 +1,174 @@
 #EXTM3U
+#EXTINF:-1  group-title="Lista 01",Ae
+https://blackghost.live/play/teleclub-505.php?c=la-ae-hd&f=.m3u8
 
-*** NACIONALES ***
-#EXTINF:-1 group-title="Lista MX1", AZTECA UNO HD
-https://blackghost.live/play/totalp1-505.php?c=7&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZ CLIC HD
-https://blackghost.live/play/totalp1-505.php?c=11&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", LAS ESTRELLAS
-https://blackghost.live/play/totalp1-505.php?c=17&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CANAL 5
-https://blackghost.live/play/totalp1-505.php?c=20&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZTECA 7
-https://blackghost.live/play/totalp1-505.php?c=21&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NU9VE
-https://blackghost.live/play/totalp1-505.php?c=24&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ONCE
-https://blackghost.live/play/totalp1-505.php?c=25&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZTECA UNO
-https://blackghost.live/play/totalp1-505.php?c=27&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TELEFORMULA SD
-https://blackghost.live/play/totalp1-505.php?c=32&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MEXIQUENSE TV
-https://blackghost.live/play/totalp1-505.php?c=44&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZ CORAZON
-https://blackghost.live/play/totalp1-505.php?c=70&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZ MUNDO
-https://blackghost.live/play/totalp1-505.php?c=84&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZTECA 7 HD
-https://blackghost.live/play/totalp1-505.php?c=317&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZTECA 7 HD (2)
-https://blackghost.live/play/totalp1-505.php?c=322&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", IMAGEN TV
-https://blackghost.live/play/totalp1-505.php?c=2298&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MULTIMEDIOS MTY
-https://blackghost.live/play/totalp1-505.php?c=2305&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", APREDNE TV
-https://blackghost.live/play/totalp1-505.php?c=401&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MULTIMEDIOS CDMX
-https://blackghost.live/play/totalp1-505.php?c=1253&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NU9VE HD
-https://blackghost.live/play/totalp1-505.php?c=1783&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", LAS ESTRELLAS HD
-https://blackghost.live/play/totalp1-505.php?c=1784&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CANAL 5 HD (2)
-https://blackghost.live/play/totalp1-505.php?c=1785&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ONCE HD
-https://blackghost.live/play/totalp1-505.php?c=1942&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MVS TV
-https://blackghost.live/play/totalp1-505.php?c=2149&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TVC
-https://blackghost.live/play/totalp1-505.php?c=2156&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CANAL 4
-https://blackghost.live/play/totalp1-505.php?c=2274&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CANAL 8
-https://blackghost.live/play/totalp1-505.php?c=2307&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TELEVISA PUEBLA
-https://blackghost.live/play/totalp1-505.php?c=2312&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", A+
-https://blackghost.live/play/totalp1-505.php?c=2316&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TVMAS
-https://blackghost.live/play/totalp1-505.php?c=2324&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CANAL DEL CONGRESO
-https://blackghost.live/play/totalp1-505.php?c=2331&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MULTIMEDIOS CDMX
-https://blackghost.live/play/totalp1-505.php?c=2352&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", IMAGEN TV HD
-https://blackghost.live/play/totalp1-505.php?c=2606&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ACADEMIA
-https://blackghost.live/play/totalp1-505.php?c=2703&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MULTIMEDIOS HD
-https://blackghost.live/play/totalp1-505.php?c=2882&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Amc
+https://blackghost.live/play/teleclub-505.php?c=la-AMC&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Animal-Planet
+https://blackghost.live/play/teleclub-505.php?c=la-animal-planet-hd&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Aztecauno
+https://blackghost.live/play/teleclub-505.php?c=aztecauno&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Bitme
+https://blackghost.live/play/teleclub-505.php?c=bitme&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Bloomberg
+https://blackghost.live/play/teleclub-505.php?c=bloomberg&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Boomerang
+https://blackghost.live/play/teleclub-505.php?c=la-boomerang-hd&f=.m3u8
 
-*** INFANTILES ***
-#EXTINF:-1 group-title="Lista MX1", TOONCAST
-https://blackghost.live/play/totalp1-505.php?c=108&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY KIDS
-https://blackghost.live/play/totalp1-505.php?c=109&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NICK
-https://blackghost.live/play/totalp1-505.php?c=110&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISNEY XD
-https://blackghost.live/play/totalp1-505.php?c=111&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CARTOON NETWORK
-https://blackghost.live/play/totalp1-505.php?c=112&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISNEY CHANNEL
-https://blackghost.live/play/totalp1-505.php?c=113&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BOOMERANG
-https://blackghost.live/play/totalp1-505.php?c=115&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BABY TV
-https://blackghost.live/play/totalp1-505.php?c=116&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NICK JR
-https://blackghost.live/play/totalp1-505.php?c=117&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISNEY JR
-https://blackghost.live/play/totalp1-505.php?c=118&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NICKTOONS SD
-https://blackghost.live/play/totalp1-505.php?c=1708&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BABY FIRST
-https://blackghost.live/play/totalp1-505.php?c=1984&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NICK 2
-https://blackghost.live/play/totalp1-505.php?c=2147&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NAT GEO KIDS
-https://blackghost.live/play/totalp1-505.php?c=2373&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BIT ME
-https://blackghost.live/play/totalp1-505.php?c=2591&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Canal 5
+https://blackghost.live/play/teleclub-505.php?c=CANAL-5&f=.m3u8
 
-*** CINE ***
-#EXTINF:-1 group-title="Lista MX1", A3CINE
-https://blackghost.live/play/totalp1-505.php?c=3112&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TBS SD
-https://blackghost.live/play/totalp1-505.php?c=81&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DE PELICULA +
-https://blackghost.live/play/totalp1-505.php?c=121&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GOLDEN +
-https://blackghost.live/play/totalp1-505.php?c=122&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GOLDEN
-https://blackghost.live/play/totalp1-505.php?c=123&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GOLDEN EDGE
-https://blackghost.live/play/totalp1-505.php?c=124&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TNT
-https://blackghost.live/play/totalp1-505.php?c=126&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TCM
-https://blackghost.live/play/totalp1-505.php?c=128&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", SPACE
-https://blackghost.live/play/totalp1-505.php?c=129&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AMC
-https://blackghost.live/play/totalp1-505.php?c=131&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", STUDIO UNIVERSAL
-https://blackghost.live/play/totalp1-505.php?c=132&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", I SAT
-https://blackghost.live/play/totalp1-505.php?c=135&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", EUROPA CHANNEL
-https://blackghost.live/play/totalp1-505.php?c=136&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FILMS & ARTS
-https://blackghost.live/play/totalp1-505.php?c=137&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FXM
-https://blackghost.live/play/totalp1-505.php?c=138&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FXM SD
-https://blackghost.live/play/totalp1-505.php?c=332&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX SERIES
-https://blackghost.live/play/totalp1-505.php?c=139&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MORBIDO
-https://blackghost.live/play/totalp1-505.php?c=140&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX MOVIES
-https://blackghost.live/play/totalp1-505.php?c=146&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CINECANAL
-https://blackghost.live/play/totalp1-505.php?c=149&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CINEMAX
-https://blackghost.live/play/totalp1-505.php?c=158&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AMC
-https://blackghost.live/play/totalp1-505.php?c=328&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DE PELICULA SD
-https://blackghost.live/play/totalp1-505.php?c=335&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX ACTION
-https://blackghost.live/play/totalp1-505.php?c=336&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", PARAMOUNT CHANNEL
-https://blackghost.live/play/totalp1-505.php?c=1726&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX CINEMA SD
-https://blackghost.live/play/totalp1-505.php?c=1729&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX CLASSICS SD
-https://blackghost.live/play/totalp1-505.php?c=1732&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZ CINEMA
-https://blackghost.live/play/totalp1-505.php?c=1787&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Canal De Las Estrellas Hd
+https://blackghost.live/play/teleclub-505.php?c=Canal-de-las-Estrellas-HD&f=.m3u8
 
-*** ENTRETENIMIENTO ***
-#EXTINF:-1 group-title="Lista MX1", TELEMUNDO INTERNACIONAL HD
-https://blackghost.live/play/totalp1-505.php?c=85&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX
-https://blackghost.live/play/totalp1-505.php?c=46&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", SONY
-https://blackghost.live/play/totalp1-505.php?c=48&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", WARNER
-https://blackghost.live/play/totalp1-505.php?c=52&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", E!
-https://blackghost.live/play/totalp1-505.php?c=55&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", UNIVERSAL
-https://blackghost.live/play/totalp1-505.php?c=57&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", SYFY
-https://blackghost.live/play/totalp1-505.php?c=59&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FX
-https://blackghost.live/play/totalp1-505.php?c=60&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", A&E
-https://blackghost.live/play/totalp1-505.php?c=62&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AXN
-https://blackghost.live/play/totalp1-505.php?c=64&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", UNICABLE SD
-https://blackghost.live/play/totalp1-505.php?c=66&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", SUNDANCE TV
-https://blackghost.live/play/totalp1-505.php?c=69&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TNT SERIES
-https://blackghost.live/play/totalp1-505.php?c=71&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GLITZ
-https://blackghost.live/play/totalp1-505.php?c=76&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GOURMET
-https://blackghost.live/play/totalp1-505.php?c=74&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX LIFE
-https://blackghost.live/play/totalp1-505.php?c=77&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISTRITO COMEDIA SD
-https://blackghost.live/play/totalp1-505.php?c=78&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TRUTV
-https://blackghost.live/play/totalp1-505.php?c=79&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TL NOVELAS SD
-https://blackghost.live/play/totalp1-505.php?c=83&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", LIFETIME
-https://blackghost.live/play/totalp1-505.php?c=94&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ANTENA 3
-https://blackghost.live/play/totalp1-505.php?c=199&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX HD
-https://blackghost.live/play/totalp1-505.php?c=201&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", WARNER HD
-https://blackghost.live/play/totalp1-505.php?c=205&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", UNIVERSAL HD
-https://blackghost.live/play/totalp1-505.php?c=207&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FX HD
-https://blackghost.live/play/totalp1-505.php?c=209&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TRUTV HD
-https://blackghost.live/play/totalp1-505.php?c=215&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", HOLA TV HD
-https://blackghost.live/play/totalp1-505.php?c=219&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", COMEDY CENTRAL
-https://blackghost.live/play/totalp1-505.php?c=340&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", COMEDY CENTRAL SD
-https://blackghost.live/play/totalp1-505.php?c=341&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", UNICABLE
-https://blackghost.live/play/totalp1-505.php?c=1499&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MAS CHIC
-https://blackghost.live/play/totalp1-505.php?c=1842&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", A3SERIES
-https://blackghost.live/play/totalp1-505.php?c=2113&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Cartoon-Network
+https://blackghost.live/play/teleclub-505.php?c=la-cartoon-network-hd&f=.m3u8
 
-*** DEPORTES ***
-#EXTINF:-1 group-title="Lista MX1", ESPN +
-https://blackghost.live/play/totalp1-505.php?c=167&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ESPN
-https://blackghost.live/play/totalp1-505.php?c=168&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ESPN 2
-https://blackghost.live/play/totalp1-505.php?c=169&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX SPORTS
-https://blackghost.live/play/totalp1-505.php?c=170&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX SPORTS 2
-https://blackghost.live/play/totalp1-505.php?c=172&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TUDN
-https://blackghost.live/play/totalp1-505.php?c=174&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOX SPORTS 3
-https://blackghost.live/play/totalp1-505.php?c=178&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", GOLF
-https://blackghost.live/play/totalp1-505.php?c=179&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AYM SPORTS
-https://blackghost.live/play/totalp1-505.php?c=180&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ESPN 3
-https://blackghost.live/play/totalp1-505.php?c=345&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TUDN HD (2)
-https://blackghost.live/play/totalp1-505.php?c=1049&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ADRENALINA SPORTS HD
-https://blackghost.live/play/totalp1-505.php?c=1799&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", LAS
-https://blackghost.live/play/totalp1-505.php?c=2089&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", HAVOC
-https://blackghost.live/play/totalp1-505.php?c=2148&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TVC DEPORTES
-https://blackghost.live/play/totalp1-505.php?c=2157&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CLARO SPORTS HD
-https://blackghost.live/play/totalp1-505.php?c=2564&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FUEL TV HD
-https://blackghost.live/play/totalp1-505.php?c=2587&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Cinemax
+https://blackghost.live/play/teleclub-505.php?c=la-cinemax&f=.m3u8
 
-*** CULTURALES ***
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY ID
-https://blackghost.live/play/totalp1-505.php?c=68&p=3&k=black&f=.m3u8
- #EXTINF:-1 group-title="Lista MX1", GARAGE TV
-https://blackghost.live/play/totalp1-505.php?c=75&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY CHANNEL
-https://blackghost.live/play/totalp1-505.php?c=86&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ANIMAL PLANET
-https://blackghost.live/play/totalp1-505.php?c=88&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", HISTORY
-https://blackghost.live/play/totalp1-505.php?c=89&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NAT GEO
-https://blackghost.live/play/totalp1-505.php?c=91&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NAT GEO WILD
-https://blackghost.live/play/totalp1-505.php?c=92&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY THEATER
-https://blackghost.live/play/totalp1-505.php?c=95&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", H&H
-https://blackghost.live/play/totalp1-505.php?c=96&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TLC
-https://blackghost.live/play/totalp1-505.php?c=97&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY SCIENCE
-https://blackghost.live/play/totalp1-505.php?c=98&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY CIVILIZATION
-https://blackghost.live/play/totalp1-505.php?c=99&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY WORLD
-https://blackghost.live/play/totalp1-505.php?c=101&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TVE
-https://blackghost.live/play/totalp1-505.php?c=198&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", SHOPPING
-https://blackghost.live/play/totalp1-505.php?c=1943&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOOD NETWORK
-https://blackghost.live/play/totalp1-505.php?c=2145&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", STAR TVE
-https://blackghost.live/play/totalp1-505.php?c=2375&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DISCOVERY TURBO
-https://blackghost.live/play/totalp1-505.php?c=2379&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CURIOSITY STREAM
-https://blackghost.live/play/totalp1-505.php?c=2594&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Comedy-Central
+https://blackghost.live/play/teleclub-505.php?c=la-comedy-central-hd&f=.m3u8
 
-*** MUSICA ***
-#EXTINF:-1 group-title="Lista MX1", MTV LIVE
-https://blackghost.live/play/totalp1-505.php?c=211&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MTV
-https://blackghost.live/play/totalp1-505.php?c=212&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MTV HITS SD
-https://blackghost.live/play/totalp1-505.php?c=213&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", VH1 CLASSIC SD
-https://blackghost.live/play/totalp1-505.php?c=214&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", VH1 SD
-https://blackghost.live/play/totalp1-505.php?c=217&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TELEHIT URBANO SD
-https://blackghost.live/play/totalp1-505.php?c=218&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", TELEHIT +
-https://blackghost.live/play/totalp1-505.php?c=220&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BANDAMAX SD
-https://blackghost.live/play/totalp1-505.php?c=221&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AZ CLIC
-https://blackghost.live/play/totalp1-505.php?c=223&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", VH1 HD
-https://blackghost.live/play/totalp1-505.php?c=334&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Discovery-Channel
+https://blackghost.live/play/teleclub-505.php?c=DISCOVERY-CHANNEL-HD&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Discovery-Civilization
+https://blackghost.live/play/teleclub-505.php?c=la-discovery-civilization&f=.m3u8
 
-*** NOTICIAS ***
-#EXTINF:-1 group-title="Lista MX1", FOROTV HD
-https://blackghost.live/play/totalp1-505.php?c=4&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOROTV SD
-https://blackghost.live/play/totalp1-505.php?c=19&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ADN40
-https://blackghost.live/play/totalp1-505.php?c=40&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", ADN 40 HD
-https://blackghost.live/play/totalp1-505.php?c=184&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CNN
-https://blackghost.live/play/totalp1-505.php?c=185&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CNN SD
-https://blackghost.live/play/totalp1-505.php?c=186&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", CNN Ñ SD
-https://blackghost.live/play/totalp1-505.php?c=187&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", WOBI
-https://blackghost.live/play/totalp1-505.php?c=102&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FOXN EWS
-https://blackghost.live/play/totalp1-505.php?c=188&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BLOOMBERG
-https://blackghost.live/play/totalp1-505.php?c=190&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", BBC SD
-https://blackghost.live/play/totalp1-505.php?c=191&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", AL JAAZERA
-https://blackghost.live/play/totalp1-505.php?c=192&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", NTN 24
-https://blackghost.live/play/totalp1-505.php?c=194&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", JUSTICIA TV
-https://blackghost.live/play/totalp1-505.php?c=196&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", HLN
-https://blackghost.live/play/totalp1-505.php?c=197&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", DW
-https://blackghost.live/play/totalp1-505.php?c=203&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", RT
-https://blackghost.live/play/totalp1-505.php?c=999&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MILENIO HD
-https://blackghost.live/play/totalp1-505.php?c=1250&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", MILENIO SD
-https://blackghost.live/play/totalp1-505.php?c=1252&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", EXCELSIOR TV
-https://blackghost.live/play/totalp1-505.php?c=1449&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", EL FINANCIERO HD
-https://blackghost.live/play/totalp1-505.php?c=1649&p=3&k=black&f=.m3u8
- #EXTINF:-1 group-title="Lista MX1", RT ESPAÑOL
-https://blackghost.live/play/totalp1-505.php?c=2091&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Lista MX1", FRANCE 24
-https://blackghost.live/play/totalp1-505.php?c=2402&p=3&k=black&f=.m3u8
+#EXTINF:-1   group-title="Lista 01",Discovery-Home-Health
+https://blackghost.live/play/teleclub-505.php?c=la-discovery-home-health&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Discovery-Id
+https://blackghost.live/play/teleclub-505.php?c=new-discovery-id&f=.m3u8
 
+#EXTINF:-1   group-title="Lista 01",Discovery-Kids
+https://blackghost.live/play/teleclub-505.php?c=la-discovery-kids-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Discovery-Science
+https://blackghost.live/play/teleclub-505.php?c=DISCOVERY-SCIENCE&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Discovery-Theater
+https://blackghost.live/play/teleclub-505.php?c=DISCOVERY-THEATER-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Discovery-Tlc
+https://blackghost.live/play/teleclub-505.php?c=la-discovery-tlc&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Discovery-World
+https://blackghost.live/play/teleclub-505.php?c=DISCOVERY-WORLD-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Disney-Channel
+https://blackghost.live/play/teleclub-505.php?c=la-disney-channel-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Disney-Junior
+https://blackghost.live/play/teleclub-505.php?c=la-disney-junior&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Disney-Xd
+https://blackghost.live/play/teleclub-505.php?c=la-disney-xd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",E-Entertainment
+https://blackghost.live/play/teleclub-505.php?c=la-e-entertainment-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",El-Gourmet
+https://blackghost.live/play/teleclub-505.php?c=la-el-gourmet&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Food-Network
+https://blackghost.live/play/teleclub-505.php?c=la-food-network-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Foxchannel
+https://blackghost.live/play/teleclub-505.php?c=foxchannel/index.m3u8?s=832e5791601561da2700ce89b6defb48&d=android&e=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Cinema
+https://blackghost.live/play/teleclub-505.php?c=la-fox-cinema-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Classics
+https://blackghost.live/play/teleclub-505.php?c=la-fox-classics&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Comedy
+https://blackghost.live/play/teleclub-505.php?c=la-fox-comedy-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Family
+https://blackghost.live/play/teleclub-505.php?c=la-fox-family-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Life
+https://blackghost.live/play/teleclub-505.php?c=la-fox-life-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Movies
+https://blackghost.live/play/teleclub-505.php?c=Fox-Movies-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fox-Series
+https://blackghost.live/play/teleclub-505.php?c=FOX-SERIES&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Fx
+https://blackghost.live/play/teleclub-505.php?c=la-fx-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Golden
+https://blackghost.live/play/teleclub-505.php?c=GOLDEN-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Hbo-2
+https://blackghost.live/play/teleclub-505.php?c=la-HBO-2&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Hbo-Signature
+https://blackghost.live/play/teleclub-505.php?c=HBO-SIGNATURE-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",History-Channel
+https://blackghost.live/play/teleclub-505.php?c=la-history-channel-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Lifetime
+https://blackghost.live/play/teleclub-505.php?c=la-lifetime-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Max-Prime
+https://blackghost.live/play/teleclub-505.php?c=MAX-PRIME-HD&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Mtv
+https://blackghost.live/play/teleclub-505.php?c=la-mtv-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Multimediossd
+https://blackghost.live/play/teleclub-505.php?c=multimediossd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Nat-Geo-Kids
+https://blackghost.live/play/teleclub-505.php?c=la-nat-geo-kids-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Nat-Geo-Wild
+https://blackghost.live/play/teleclub-505.php?c=la-nat-geo-wild-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Nick-2
+https://blackghost.live/play/teleclub-505.php?c=la-nick-2-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Nick-Jr
+https://blackghost.live/play/teleclub-505.php?c=nick-jr&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Nicktoons
+https://blackghost.live/play/teleclub-505.php?c=la-nicktoons&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Paramount-Channel
+https://blackghost.live/play/teleclub-505.php?c=la-paramount-channel-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Sony
+https://blackghost.live/play/teleclub-505.php?c=la-sony-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Space
+https://blackghost.live/play/teleclub-505.php?c=la-space-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Telenovelas
+https://blackghost.live/play/teleclub-505.php?c=la-telenovelas&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Tnt-Series
+https://blackghost.live/play/teleclub-505.php?c=la-tnt-series-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Tooncast
+https://blackghost.live/play/teleclub-505.php?c=la-tooncast-hd&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Unicable
+https://blackghost.live/play/teleclub-505.php?c=la-unicable&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Universal-Channel
+https://blackghost.live/play/teleclub-505.php?c=la-universal-channel&f=.m3u8
+
+#EXTINF:-1   group-title="Lista 01",Warner
+https://blackghost.live/play/teleclub-505.php?c=la-warner-hd&f=.m3u8
