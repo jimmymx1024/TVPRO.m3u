@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1  group-title="Lista TV", DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 #EXTINF:-1  group-title="Lista TV", EIN SPORTS
