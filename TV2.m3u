@@ -1,255 +1,406 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tnt-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tudn&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=goltvlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=beinlatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/vtv.png" group-title="Lista 16",VTV URUGUAY
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=vtv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/caracoltv.png" group-title="Lista 16",CARACOL TV
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=caracoltv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golperu.png" group-title="Lista 16",GOL PERU
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=golperu&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/cdf.png" group-title="Lista 16",CDF
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=cdfpremium&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png" group-title="Lista 16",FOX SPORTS ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png" group-title="Lista 16",FOX SPORTS 2 ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png" group-title="Lista 16",FOX SPORTS 3 ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnar.png" group-title="Lista 16",ESPN ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn1ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2ar.png" group-title="Lista 16",ESPN 2 ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn2ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3ar.png" group-title="Lista 16",ESPN 3 ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn3ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png" group-title="Lista 16",FOX SPORTS MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png" group-title="Lista 16",FOX SPORTS 2 MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png" group-title="Lista 16",FOX SPORTS 3 MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmx.png" group-title="Lista 16",ESPN MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn1mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn2mx.png" group-title="Lista 16",ESPN 2 MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn2mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espn3mx.png" group-title="Lista 16",ESPN 3 MEXICO
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn3mx&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/espnmasar.png" group-title="Lista 16",ESPN + ARGENTINA
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=espn+ar&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports.png" group-title="Lista 16",DIRECTV SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=directv-sports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directvsports2.png" group-title="Lista 16",DIRECTV SPORTS 2
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=directv-sports2&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png" group-title="Lista 16",DIRECTV SPORTS PLUS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/tyc.png" group-title="Lista 16",TYC SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tyc&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/golflatino.png" group-title="Lista 16",GOLF CHANNEL
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=golflatino&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/foxaction.png" group-title="Lista 16",FOX PREMIUM ACTION
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png" group-title="Lista 16",ADRENALINA SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=adrenalinatv&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/aym.png" group-title="Lista 16",AYM SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=aymsports&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png" group-title="Lista 16",UNIVISION DEPORTES
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=univisiondeportes&f=.m3u8
-#EXTINF:-1 tvg-logo="/logos/win.png" group-title="Lista 16",WIN SPORTS
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=winsports&f=.m3u8
+#EXTINF:-1  group-title="Lista MX3",Azteca uno
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=27&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Adn40
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=40&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Las estrellas
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Imagen tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Canal 5
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2038&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Foro tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=4&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Azteca 7
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",a+
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2316&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Nu9ve
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2039&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Canal once
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=25&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Multimedios canal 6
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2352&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Televisa puebla
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2312&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Televisa monterrey
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Mvs tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2306&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Mexiquenses
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=44&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Teleformula
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=32&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Ingenio tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=401&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Dw
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=203&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",CNN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=185&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",CNN espaÃ±ol
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=187&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Milenio Noticias
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1250&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Excelsior tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1449&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 
-#EXTINF:-1  group-title="Lista 16",TELEFE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=telefe&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",EL TRECE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=eltrece&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AMERICA TV 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=america2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TV PUBLICA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tvpublica&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TN ARGENTINA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tn&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",C5N ARGENTINA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=c5n&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",EL NUEVE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=canal9ar&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL 26 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=canal26ar&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CRONICA TV 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=cronicatv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CIUDAD MAGAZINE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",A 24 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=a24&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TELEVISA DEL BAJIO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=canalbajio&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL 5 TELEVISA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=canal5televisa&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA 1 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=azteca&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA SIETE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=azteca7&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA MAS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=aztecamas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA CINEMA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=aztecacinema&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA MUNDO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=aztecamundo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AZTECA CORAZON 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=aztecacorazon&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CANAL LAS ESTRELLAS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=canalestrellas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TLNOVELAS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=telenovelas&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",MTV LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=mtv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fox&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM ACTION 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxaction&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM SERIES 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxseries&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM FAMILY 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxfamily&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM CINEMA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxcinema&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM COMEDY 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxcomedy&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM CLASICS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxclassics&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX PREMIUM MOVIES 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxmovies&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FOX LIFE LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=foxlife&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=hbo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO 2 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=hbo2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO PLUS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=hboplus&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO FAMILY 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=hbofamily&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO SIGNATURE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=hbosignature&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO XTREME 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=maxprime&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO MUNDI 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=maxlatino&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HBO POP 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=maxup&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=golden&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN PLUS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=goldenplus&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",GOLDEN EDGE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=goldenedge&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CINEMAX 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=cinemax&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",CINECANAL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=cinecanal&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TNT LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tnt&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TNT SERIES 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tntseries&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AXN LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=axn&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",AMC LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=amc&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TCM LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tcm&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SYFY LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=syfy&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FXM 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fxm&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",FX 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=fx&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SPACE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=space&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",COMEDY CENTRAL LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=comedycentral&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",PARAMOUNT CHANNEL LATINO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=paramountchannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",SONY 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=sony&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",TBS 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tbs&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",STUDIO UNIVERSAL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=studiouniversal&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",UNIVERSAL CHANNEL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=universalchannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",WARNER 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=warner&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DE PELICULA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=depelicula&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISTRITO COMEDIA 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=distritocomedia&f=.m3u8
+#EXTINF:-1  group-title="Lista MX3",Fox New live
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=188&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Bloomberg
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=190&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",A3series
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2113&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1  group-title="Lista MX3",Star tve
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2375&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",DW espaÃ±ol
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=203&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Food network
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1  group-title="Lista MX3",Az clik
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=223&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Az mundo
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=84&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Tlnovelas
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=83&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1  group-title="Lista MX3",Az corazÃ³n
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=70&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",TVC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2156&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",RT
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-#EXTINF:-1  group-title="Lista 16",cartoon network en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",discovery kids en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=discoverykids&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney junior en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=disneyjunior&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney xd en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=disneyxd&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",disney channel en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=disneychannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",nick en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=nick&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",nicktoons en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=nicktoons&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",babyfirst en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=babyfirst&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",tooncast en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=tooncast&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",boomerang en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=boomerang&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",boing en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=boing&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",clantv en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=clantv&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",paka paka en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=pakapaka&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",kidstv en vivo
-https://blackghost.live/play/wistream-bglve-526.php?cat=infantiles&ch=kidstv&f=.m3u8
+#EXTINF:-1  group-title="Lista MX3",Telemundo
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=85&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Unicable
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1499&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Hola tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=219&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Fx
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=60&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Sony
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=48&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star Channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=201&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Warner channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=52&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",E!
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=55&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Universal
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=57&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Syfy
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=59&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",tru tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=215&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+ #EXTINF:-1  group-title="Lista MX3",Axn
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=64&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",AMC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=131&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=history&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",HISTORY 2 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=history2&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY CHANNEL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoverychannel&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY TLC 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=tlc&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY CIVILIZATION 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoverycivilization&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY TURBO 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoveryturbo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY THEATER 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoverytheater&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY SCIENCIE 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoverysciencie&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",INVESTIGACION DISCOVERY 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY H&H 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoveryhh&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",DISCOVERY WORL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=discoveryworl&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",NATIONAL GEOGRAPHIC 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=nationalgeo&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",NAT GEO WILL 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=nationalwill&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",A&E 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=ae&f=.m3u8
-#EXTINF:-1  group-title="Lista 16",ANIMAL PLANET 
-https://blackghost.live/play/wistream-bglve-526.php?cat=latinos&ch=animalplanet&f=.m3u8
+#EXTINF:-1  group-title="Lista MX3",Warner channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=205&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Universal channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=207&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Fx
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=209&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Sundance tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=69&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",TNT series
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=71&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Gourmet
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=74&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Garage tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=75&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Glitz
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=76&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star life
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=77&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1  group-title="Lista MX3",Maschic
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1842&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Distrito comedia
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",True tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=79&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Tbs
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=81&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
+#EXTINF:-1  group-title="Lista MX3",Comedy Central
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=340&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Studio universal
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=132&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Isat
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=135&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Canal Europa
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=136&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Film art
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=137&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Fxm
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=138&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star series
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=139&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star action
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=336&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star movies
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=146&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star cinema
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1729&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Star classic
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1732&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Cine canal
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=149&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Paramount channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1726&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Cinemax
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=158&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",De pelÃ­cula plus
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=121&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",De pelicula
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=335&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Golden plus
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=122&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Golden
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=123&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Golden edge
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=124&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",TNT
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Tcm
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=128&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Space
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=129&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=86&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Animal planet
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=88&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",History
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=89&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nat geo
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=91&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nat geo wild
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=92&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Investigacion discovery
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=68&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Discovery theater
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=95&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery Home and Health
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=96&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery TLC
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=97&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery Science
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=98&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery Civilization
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=99&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery world
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=101&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery turbo
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2379&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",HGTV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3105&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Wobi
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=102&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nat geo kids
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2370&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Tooncast
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=108&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Discovery kids
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=109&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nick
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=110&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Disney xd
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=111&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Cartoon network
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=112&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Disney channel
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=113&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Boomerang
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=115&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Babytv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=116&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nick jr
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=117&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nick 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2147&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Nicktoons
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1708&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Disney jr
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=118&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Baby first
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=1984&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Bit me
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2591&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",MÃ³rbido tv
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=140&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",MTV live
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=211&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",MTV
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",MTV hits
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=213&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",1 Classic
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=214&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Vh1
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=217&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Telehit plus
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=220&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Telehit Urbano
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=218&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Bandamax
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=221&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",TUDN
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Espn
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Espn 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Espn 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=345&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",ESPN +
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=167&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Fox sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",Fox sports 2
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Fox sports 3
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=178&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Adrenalina sports Network
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2404&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",TVC Deportes
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2157&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Claro sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2564&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Golf
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=179&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+ 
+#EXTINF:-1  group-title="Lista MX3",Aym sports
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=180&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
+
+#EXTINF:-1  group-title="Lista MX3",LMB
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2089&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
