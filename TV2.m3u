@@ -545,6 +545,9 @@ https://18593.live.streamtheworld.com/XEJP_FMAAC.aac
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 
+#EXTINF:0 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/996.m3u8
+
 #EXTINF:0 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno op2
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
@@ -559,6 +562,9 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
 https://tinyurl.com/AMPER-Tv-ImagenTV?c=103&p=1&k=ampertv&f=.m3u8
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
+http://heinentv.ddns.net:25461/Manuel/Manuel/10786
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
 http://heinentv.ddns.net:25461/wayne/wayne/10786
@@ -579,7 +585,7 @@ https://www.youtube.com/watch?v=9RzOKoaDnC8
 http://heinentv.ddns.net:25461/wayne/wayne/15619
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.1 Milenio TV
-https://tinyurl.com/AMPER-TV-MILENIOTV?c=125&p=1&k=ampertv&f=.m3u8
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2321.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.1 Milenio TV (youtube)
 https://www.youtube.com/watch?v=5WNdbFOueAI
@@ -588,7 +594,7 @@ https://www.youtube.com/watch?v=5WNdbFOueAI
 http://heinentv.ddns.net:25461/wayne/wayne/5332
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7 op1
-https://dai.google.com/linear/hls/pa/event/1FnFvMQHTl6h-RT9cSU2tg/stream/bea53f0f-5b61-4742-a5ef-cbd37582c66b:TUL/variant/e67b14b603a8b63c3034eb96fa5c4428/bandwidth/779849.m3u8
+http://heinentv.ddns.net:25461/Manuel/Manuel/5332
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7 op1
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
@@ -628,7 +634,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/chunklist_w1132198194
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-id="Ingenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/ingenio_tv_mexico.png" group-title="MEXICO",14.2 Ingenio TV
-http://tv.nousiptv.com:8080/Lucy/123456/33358
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/1069.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvunam.png" group-title="MEXICO",20.1 TV UNAM
 https://api.new.livestream.com/accounts/TVUNAM2/events/8970901/live.m3u8
@@ -679,7 +685,7 @@ https://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula.png" group-title="MEXICO",Teleformula
-https://stream-03.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqsi6Pn9xYgSjT-EcH8r5Gz0)/dm/3/x7u0spq/s/live-3.m3u8#cell=lsv4&qos_vpart=1&qos_stail=1
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2573.m3u8
 
 #EXTINF:-1 tvg-id="Noticias MVS" tvg-logo="https://storage.googleapis.com/noticiasweb/assets/images/mvsnoticias_logo.png" group-title="MEXICO",Noticias MVS
 https://stream-03.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOBmQek35mCRRC5rjIplsbLrYProNYNNnOT3-dWrSnJwa)/p/dm/3/x6t7n6t/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
@@ -991,7 +997,7 @@ http://animeloving.net/hls/stream.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="INFANTILES",Bit Me | México
-https://tinyurl.com/AMPER-TV-BitMe?c=242&p=1&k=ampertv&f=.m3u8
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/979.m3u8
 
 #EXTINF:-1 tvg-id="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="INFANTILES",Boing | España
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
@@ -1232,8 +1238,8 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 #EXTINF:-1 tvg-id="TeleRed" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png" group-title="ENTRETENIMIENTO",Telered | Costa Rica
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8
 
-#EXTINF:-1 tvg-id="TL Novelas Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="ENTRETENIMIENTO", TL Novelas | Mexico
-https://tinyurl.com/AMPER-TV-TLNovelas?c=245&p=1&k=ampertv&f=.m3u8
+#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo.png" group-title="ENTRETENIMIENTO",Tele Futuro | Paraguay
+https://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
 
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="ENTRETENIMIENTO",Television Pública | Argentina
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
@@ -1241,26 +1247,55 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="Television Publica" tvg-logo="https://i.imgur.com/04nIdpc.png" group-title="ENTRETENIMIENTO",Television Pública | Argentina
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
+#EXTINF:-1 tvg-id="TL Novelas Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="ENTRETENIMIENTO", TL Novelas | Mexico
+https://tinyurl.com/AMPER-TV-TLNovelas?c=245&p=1&k=ampertv&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png" group-title="ENTRETENIMIENTO",TV Retro Palmares | Costa Rica
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
 
-#EXTINF:-1 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",UEFA / Eurocopa 2021
-http://heinentv.ddns.net:25461/Manuel/Manuel/5185
-#EXTINF:-1 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",UEFA / Eurocopa 2021 op2
+#EXTINF:-1 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",UEFA | Eurocopa 2021
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8?SBN
-#EXTINF:-1 tvg-id="Eurocopa" tvg-logo="https://www.milenio.com/uploads/media/2016/09/21/logotipo-de-la-eurocopa.jpeg" group-title="DEPORTES",UEFA / Eurocopa 2021 op3
-http://g.givemenbastreams.com/hls/tnt/playlist.m3u8
-#EXTINF:-1 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",CONMEBOL / Copa America 2021
+#EXTINF:-1 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",CONMEBOL | Copa America 2021
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?SBN
-#EXTINF:-1 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",CONMEBOL / Copa America 2021 op2
-http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
-#EXTINF:-1 tvg-id="Copa America" tvg-logo="https://assets-production.applicaster.com/static/copa_america/images/CA21-vertical-logo.png" group-title="DEPORTES",CONMEBOL / Copa America 2021 op3
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-#EXTINF:-1 tvg-id="Copa Oro" tvg-logo="https://futbol.aquitodito.com/wp-content/uploads/2019/06/CPO2.jpg" group-title="DEPORTES",CONCACAF / Copa Oro 2021
-http://heinentv.ddns.net:25461/wayne/wayne/10787
-#EXTINF:-1 tvg-id="Copa Oro" tvg-logo="https://futbol.aquitodito.com/wp-content/uploads/2019/06/CPO2.jpg" group-title="DEPORTES",CONCACAF / Copa Oro 2021 op2
+#EXTINF:-1 tvg-id="Copa Oro" tvg-logo="https://futbol.aquitodito.com/wp-content/uploads/2019/06/CPO2.jpg" group-title="DEPORTES",CONCACAF | Copa Oro 2021
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8?SBN
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",EUROCOPA Directv Sports | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2314.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",EUROCOPA Directv Sports | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",EUROCOPA Directv Sports 2 | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2289.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",EUROCOPA Directv Sports + | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",EUROCOPA ESPN Live | Estados Unidos
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES",EUROCOPA TNT Sports | Argentina
+http://heinentv.ddns.net:25461/Manuel/Manuel/5185
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES",EUROCOPA TNT Sports  HD | Argentina
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2218.m3u8
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports-mediano.png" group-title="DEPORTES",Win Sports + | Colombia
+http://heinentv.ddns.net:25461/Manuel/Manuel/27272
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports-mediano.png" group-title="DEPORTES",COPA AMERICA Win Sports + | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33375.m3u8
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports-mediano.png" group-title="DEPORTES",COPA AMERICA Win Sports + | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33376.m3u8
+#EXTINF:-1 tvg-id="Caracol Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="DEPORTES",COPA AMERICA Caracol TV SD | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33377.m3u8
+#EXTINF:-1 tvg-id="Caracol Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="DEPORTES",COPA AMERICA Caracol TV FHD 1 | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33378.m3u8
+#EXTINF:-1 tvg-id="Caracol Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="DEPORTES",COPA AMERICA Caracol TV SD 1 | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33379.m3u8
+#EXTINF:-1 tvg-id="Caracol Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="DEPORTES",COPA AMERICA Caracol TV FHD 2 | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33380.m3u8
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="DEPORTES",COPA AMERICA RCN HD | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33383.m3u8
+#EXTINF:-1 tvg-id="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="DEPORTES",COPA AMERICA RCN SD | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33384.m3u8
+#EXTINF:0 tvg-id="TUDN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",COPA AMERICA TUDN | Mexico
+http://heinentv.ddns.net:25461/wayne/wayne/10787
+#EXTINF:0 tvg-id="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",COPA AMERICA TUDN | Estados Unidos
+https://m3u-editor.com/serve/rkmania-iptvcuack/296249224
 #EXTINF: -1 tvg-id="Afizzionados" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados.png" group-title="DEPORTES",AfiZZionados | México
 https://m3u-editor.com/serve/rkmania-iptvcuack/296249197
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES",All Sports | Brasil
@@ -1269,6 +1304,8 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&&
 #EXTINF:-1 group-title="DEPORTES",ARENA | Rumania
 https://95-213-224-185.livesports24.online/rumatcharena.m3u8?SBN
+#EXTINF:-1 tvg-id="AYM Sports" tvg-name="AyM Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTES",AyM Sports  | Mexico
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2240.m3u8
 #EXTINF:0 tvg-id="BarcaTV(src02).es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png" group-title="DEPORTES",Barca TV | España
 http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8
 #EXTINF:-1 tvg-id="Betis TV" tvg-logo="https://i.imgur.com/NC3rEUq.png" group-title="DEPORTES",Betis TV | España
@@ -1346,8 +1383,6 @@ http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8?SBN
 http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f5de7950-a238-11eb-a147-99de383ea2cf/1596485/288511657.png" group-title="DEPORTES",Sport TV 5 | Portugal
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8?SBN
-#EXTINF:-1 tvg-id="Telefuturo" tvg-logo="https://i.imgur.com/fdf.png" group-title="DEPORTES",Tele Futuro | Paraguay
-https://cdn.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4.m3u8
 #EXTINF:-1 tvg-id="Teletrak" tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="DEPORTES",Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="DEPORTES",Tennis Channel | Estados Unidos
@@ -1362,11 +1397,13 @@ https://tinyurl.com/AMPER-TV-TUDN?c=550&p=1&k=ampertv&f=.m3u8
 http://heinentv.ddns.net:25461/wayne/wayne/10787
 #EXTINF:0 tvg-id="TUDN USA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Estados Unidos
 https://m3u-editor.com/serve/rkmania-iptvcuack/296249224
-#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/320px-Vamos.svg.png" group-title="DEPORTES",#VAMOS | España
+#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_deportes.png" group-title="DEPORTES",TVC Deportes | México
+http://heinentv.ddns.net:25461/Manuel/Manuel/5187
+#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/_vamos.png" group-title="DEPORTES",#VAMOS | España
 http://212.224.98.205:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_PVqoVpneHNI7trbcLVi2_A%3D%3D%2C1621780366.4064914868
-#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/320px-Vamos.svg.png" group-title="DEPORTES",#VAMOS | España
+#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/_vamos.png" group-title="DEPORTES",#VAMOS | España
 http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
-#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/320px-Vamos.svg.png" group-title="DEPORTES",#VAMOS | España
+#EXTINF:-1 tvg-id="Vamos.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/_vamos.png" group-title="DEPORTES",#VAMOS | España
 http://212.224.98.207:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=thejoelc
 #EXTINF:-1 tvg-id="ViasatSport.se" tvg-logo="http://www.viasat.no/sites/viasat.no/files/styles/promo_1_of_2/public/images/promos/viasport-one.png" group-title="DEPORTES",Viasat sport | Suecia
 http://persik.by/stream/2944/263250/10249.m3u8
@@ -1733,7 +1770,7 @@ http://20323.live.streamtheworld.com/XHMVSFM_SC
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Opus 94 94.5 fm
 https://s2.mexside.net/8016/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Tropicalisima 1350 am 
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Tropicalisima 1350 am	
 https://s2.mexside.net/8030/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la sabrosita 590 cdmexico
@@ -2015,7 +2052,7 @@ https://mopiez.com/assets/v1/video/movie.mp4
 https://storage.googleapis.com/skilled-bee-239905-6.appspot.com/654987234/b5c3689962e059d642623d745262a527a7b0073bbb730d89b81e399894d558c4-mUaRDlnY0clf4ydWR1BY.mp4
 #EXTINF:0 group-title="peliculas infantiles",los increibles 2
 http://boongas.pro/cloud/qNFzmDZtLY171/qNFzmDZtLY171.mp4
-#EXTINF:-1 tvg-logo="" group-title="peliculas infantiles"Perez, el ratoncito de tus suenos  
+#EXTINF:-1 tvg-logo="" group-title="peliculas infantiles"Perez, el ratoncito de tus suenos	
 https://www.youtube.com/watch?v=D8qqDH-j5WQ
 #EXTINF:-1 group-title="peliculas infantiles",PIXEL
 https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
@@ -2569,6 +2606,7 @@ http://23.237.78.54/live-1000/263/playlist.m3u8?SBN
 http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
 #EXTINF:-1,Unknown 56
 http://dimapro.cz:8080/live/00:1A:79:16:F9:93/ziajdjjfdifjd64646/38470.m3u8
+
 
 
 
