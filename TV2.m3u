@@ -560,13 +560,13 @@ https://tinyurl.com/AMPER-TV-LasEstrellas?c=101-2&p=1&k=ampertv&f=.m3u8
 #EXTINF:-1 tvg-id="De Las Estrellas Mexico" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas.png" group-title="MEXICO",2.1 De Las Estrellas Mexico
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i0.wp.com/sinembargo.mx/wp-content/uploads/2016/10/programacion-canal-3-imagen4.jpeg" group-title="MEXICO",3.1 Imagen TV
 https://tinyurl.com/AMPER-Tv-ImagenTV?c=103&p=1&k=ampertv&f=.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i0.wp.com/sinembargo.mx/wp-content/uploads/2016/10/programacion-canal-3-imagen4.jpeg" group-title="MEXICO",3.1 Imagen TV
 http://heinentv.ddns.net:25461/Manuel/Manuel/10786
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://www.izzi.mx/bcanales/img/canal118.png" group-title="MEXICO",3.1 Imagen TV
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-logo="https://i0.wp.com/sinembargo.mx/wp-content/uploads/2016/10/programacion-canal-3-imagen4.jpeg" group-title="MEXICO",3.1 Imagen TV
 http://heinentv.ddns.net:25461/wayne/wayne/10786
 
 #EXTINF:-1 tvg-id="Excelsior TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/excelsior_tv.png" group-title="MEXICO",3.4 Excelsior TV
@@ -584,10 +584,13 @@ https://www.youtube.com/watch?v=9RzOKoaDnC8
 #EXTINF:-1 tvg-id="5 de Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/5_de_mexico.png" group-title="MEXICO",5.1 El Cinco
 http://heinentv.ddns.net:25461/wayne/wayne/15619
 
-#EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.1 Milenio TV
+#EXTINF:-1 tvg-id="Canal 6" tvg-logo="https://i.imgur.com/M3RpKt3.png"group-title="MEXICO",6.1 Canal 6
+https://tinyurl.com/AMPER-TV-Canal6?c=106&p=1&k=ampertv&f=.m3u8
+
+#EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2321.m3u8
 
-#EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.1 Milenio TV (youtube)
+#EXTINF:-1 tvg-id="Milenio TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/milenio_tv-mediano.png" group-title="MEXICO",6.2 Milenio TV (youtube)
 https://www.youtube.com/watch?v=5WNdbFOueAI
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO",7.1 Azteca 7
@@ -1149,7 +1152,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv | Ecuador
+#EXTINF:-1 tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",Frecuencia Musical Tv | Ecuador / USA
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1301920835.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://frecuenciamusicaltv.com/gallery/logo%20fm%20new-ts1547180993.png" group-title="CINE",FMTV Mundo 1 HD | Ecuador
@@ -1200,6 +1203,9 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="CINE",ZZ American Horrors | Estados Unidos
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
+#EXTINF:-1 tvg-id="Caracol Colombia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="ENTRETENIMIENTO",Caracol TV | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33379.m3u8
+
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="DISTRITO COMEDIA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="ENTRETENIMIENTO",Distrito Comedia | México
 https://tinyurl.com/AMPER-TV-DistritoComedia?c=1012&p=1&k=ampertv&f=.m3u8
 
@@ -1231,6 +1237,9 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Canal Mundo+" tvg-logo="https://i.imgur.com/9BtSyV2.png" group-title="ENTRETENIMIENTO",Mundo+ | Colombia
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="ENTRETENIMIENTO",RCN | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33384.m3u8
 
 #EXTINF:0 tvg-id="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="ENTRETENIMIENTO",Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
@@ -1302,7 +1311,7 @@ https://m3u-editor.com/serve/rkmania-iptvcuack/296249197
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/assets/images/logo.png" group-title="DEPORTES",Al Kass Sports | Qatar
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&&
-#EXTINF:-1 group-title="DEPORTES",ARENA | Rumania
+#EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/56b/160_160_1/5caad58793ac5.png" group-title="DEPORTES",ARENA | Rumania
 https://95-213-224-185.livesports24.online/rumatcharena.m3u8?SBN
 #EXTINF:-1 tvg-id="AYM Sports" tvg-name="AyM Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports.png" group-title="DEPORTES",AyM Sports  | Mexico
 http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2240.m3u8
@@ -1321,12 +1330,22 @@ https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/
 
 #EXTINF:0 tvg-id="Claro Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/claro_sports.png" group-title="DEPORTES",Claro Sports | México
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/live-audio_track_0_0_und=128000-video_track=4500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",Directv Sports | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2314.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",Directv Sports | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2287.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",Directv Sports 2 | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2289.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://192.99.63.87/LogosCanales/Directv%20Sports.jpg" group-title="DEPORTES",Directv Sports + | Ecuador
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2285.m3u8
 #EXTINF:0 tvg-id="ESPN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN | Mexico
 https://tinyurl.com/AMPER-TV-ESPN?c=535&p=1&k=ampertv&f=.m3u8
 #EXTINF:0 tvg-id="ESPN 2 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 | Mexico
 https://tinyurl.com/AMPER-TV-ESPN2?c=535&p=1&k=ampertv&f=.m3u8
 #EXTINF:0 tvg-id="ESPN 3 Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 | Mexico
 https://tinyurl.com/AMPER-TV-ESPN3?c=535&p=1&k=ampertv&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN Live | Estados Unidos
+http://acvlzxxmvr.chickenkiller.com/fs2.m3u8
 #EXTINF:0 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/rQQrmkQ/eurosport.gif" group-title="DEPORTES",Eurosport 1 | Francia
 http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
 #EXTINF:0 tvg-id="Eurosport 2" tvg-logo="http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg" group-title="DEPORTES",Eurosport 2 | Francia
@@ -1343,6 +1362,8 @@ https://tinyurl.com/AMPER-TV-FOXSPORTS2?c=520&p=1&k=ampertv&f=.m3u8
 https://tinyurl.com/AMPER-TV-FOXSPORTS3?c=520&p=1&k=ampertv&f=.m3u8
 #EXTINF:-1 tvg-id="El Garage" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="DEPORTES",Garage TV | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/140x140_RS/36/fd/ab/36fdabcc6b678b4c4369f5d936785b24.jpg" group-title="DEPORTES",Internetv Deportes (youtube) | México
+https://www.youtube.com/watch?v=lXA5rqpX13A
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-chno="412" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTES",Lucha Libre AAA | PlutoTV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:0 tvg-logo="https://connectnow.global/images/logo-claro-png.png" group-title="DEPORTES",Marca Claro (youtube) | Mexico
@@ -1389,6 +1410,10 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="DEPORTES",Tennis Channel Plus | Estados Unidos
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES",TNT Sports | Argentina
+http://heinentv.ddns.net:25461/Manuel/Manuel/5185
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports.png" group-title="DEPORTES",TNT Sports  HD | Argentina
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2218.m3u8
 #EXTINF:0 tvg-id="TOROS(src01).es" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d583880-b418-11eb-894e-031da3c5dcd3/1635281/297733864.jpg" group-title="DEPORTES",Toros TV | España
 http://31.220.41.88:8081/live/es-toros.stream/playlist.m3u8
 #EXTINF:0 tvg-id="TUDN Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" group-title="DEPORTES",TUDN | Mexico
@@ -1407,6 +1432,10 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1626_.m3u8
 http://212.224.98.207:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=thejoelc
 #EXTINF:-1 tvg-id="ViasatSport.se" tvg-logo="http://www.viasat.no/sites/viasat.no/files/styles/promo_1_of_2/public/images/promos/viasport-one.png" group-title="DEPORTES",Viasat sport | Suecia
 http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports-mediano.png" group-title="DEPORTES",Win Sports + | Colombia
+http://heinentv.ddns.net:25461/Manuel/Manuel/27272
+#EXTINF:-1 tvg-id="Win Sports" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/win_sports-mediano.png" group-title="DEPORTES",Win Sports + | Colombia
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/33375.m3u8
 
 #EXTINF:-1 tvg-id="24 Horas TVE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve.png" group-title="NOTICIAS",24 Horas TVE | España
 https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
@@ -1427,7 +1456,7 @@ https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://notired.hol.es/wp-content/uploads/2017/08/hispantv.png" group-title="NOTICIAS",HispanTV | Irán
 https://live.presstv.com/live/smil:live.smil/playlist.m3u8
-#EXTINF:- 1 tvg-id="IP" tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="NOTICIAS",Informacion Periodistica | Argentina
+#EXTINF:- 1 tvg-id="IP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdQ4CbRDh4Wgxt0o_pw9V-kw9Vz6T0Re2Q_RD62jp7cZMO0uWvSKSUN6sZ2vjYcbn5fAs&usqp=CAU" group-title="NOTICIAS",Informacion Periodistica | Argentina
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-id="RaiNews24(src01).it" tvg-logo="http://www.netkabel.net.mk/images/sampledata/logo/crainews24.png" group-title="NOTICIAS",Rai News 24 | Italia
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
@@ -1437,358 +1466,361 @@ https://rt-esp.secure.footprint.net/1102.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
 #EXTINF:-1 tvg-id="Sky News" tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2016/01/channel-logo-sky-news.png" group-title="NOTICIAS",SKY News op2 | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png" group-title="MODA",Chic Magazine
-
+#EXTINF:-1 tvg-id="Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png" group-title="MODA",Chic Magazine | Chile
 https://paneltv.online:1936/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA",Fashion Tv
+#EXTINF:-1 tvg-id="Fashion Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/b/b0/Fashion_tv.png/120px-Fashion_tv.png" group-title="MODA",Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HD Fashion" tvg-logo="https://4.bp.blogspot.com/-uRLyPis-Z34/Vum6P5trdxI/AAAAAAAAILs/_CLGpko6wpkOah-WEkzCLMnX-nxqvoqjw/s1600/fashion-one-logo.png" group-title="MODA",Fashion HD
+#EXTINF:-1 tvg-id="HD Fashion" tvg-logo="https://4.bp.blogspot.com/-uRLyPis-Z34/Vum6P5trdxI/AAAAAAAAILs/_CLGpko6wpkOah-WEkzCLMnX-nxqvoqjw/s1600/fashion-one-logo.png" group-title="MODA",Fashion HD | Francia
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax.png" group-title="MUSICA",Bandamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/ARTS_TV_World.png" group-title="MUSICA",ARTS Tv | Etiopia
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bandamax.png" group-title="MUSICA",Bandamax | México
 https://tinyurl.com/AMPER-TV-BANDAMAX?c=455&p=1&k=ampertv&f=.m3u8
 
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MUSICA",Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",California Music Channel | Estados Unidos
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="MUSICA",Conecta TV | México
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Video Rola" tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="MUSICA", Video Rola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+#EXTINF:-1 tvg-logo="http://playgineering.com/wp-content/uploads/2017/02/Chaula2.png" group-title="MUSICA",CHAU Tv | Letonia
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
-#EXTINF:-1 tvg-id="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png" group-title="MUSICA",telehit
-https://tinyurl.com/AMPER-TV-TELEHIT?c=450&p=1&k=ampertv&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.city.bg/theme_assets/city/images/logo.png" group-title="MUSICA",CITY RADIO TV | Bulgaria
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV
+#EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2020-07/colosal-tv-costa-rica.png" group-title="MUSICA",Colosal TV | Costa Rica
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://djlonchoradio.com/wp-content/uploads/2018/09/tv-300x300.jpg" group-title="MUSICA",Dj Loncho Radio Tv | Chile
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fs1.tv/typo3temp/pics/e506ab8c9d.jpeg" group-title="MUSICA",FS1 | Austria
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="MUSICA", La Mega Mundial | Estados Unidos
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Us1XHnp.jpg" group-title="MUSICA", Latinos 1 | Suiza
+https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Us1XHnp.jpg" group-title="MUSICA", Latinos 1 | Suiza
+https://panel.streamingtv-mediacp.online:1936/8212/8212/chunklist_w429508567.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA",Latinos Up Tv | Estados Unidos
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA",Latinos Up Tv op2 | Estados Unidos
+https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://thaiptv.com/img/m2o.jpg" group-title="MUSICA",m2o TV | Italia
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel | Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo | Francia
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA",Mix 24-7 | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+
+#EXTINF:-1 tvg-id="MTV Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV | Estados Unidos
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV noruega
+#EXTINF:-1 tvg-id="MTV Sur" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv.png" group-title="MUSICA",MTV | Noruega
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-id="MTV Hits Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png" group-title="MUSICA",MTV HITS
+#EXTINF:-1 tvg-id="MTV Hits Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png" group-title="MUSICA",MTV HITS | Estados Unidos
 http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8?fluxustv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="MUSICA",Conecta TV
-
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="106796" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="MUSICA",Rewind TV
-
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="MUSICA",Urban TV
-
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Us1XHnp.jpg" group-title="MUSICA", Latinos 1
-https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top SD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RD4EAC0i0gU/VNV1DUqW6QI/AAAAAAAABlk/YG0lnk9XBYg/s1600/logo%2Btoplatino.jpg" group-title="MUSICA",TOP Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RD4EAC0i0gU/VNV1DUqW6QI/AAAAAAAABlk/YG0lnk9XBYg/s1600/logo%2Btoplatino.jpg" group-title="MUSICA",TOP Latino TV op2
-http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="MUSICA",TV POP
-
-https://v4.tustreaming.cl/poptv/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="MUSICA", La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",COLOSAL TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA",Latinos Up Tv
-https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/etndUmR.png" group-title="MUSICA",Latinos Up Tv op2
-https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png" group-title="MUSICA",Mix 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica
-http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",RBM TV
-https://cp.sradiotv.com:1936/8016/8016/chunklist_w1427361354.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA",Radio Contact Feel Good | HD
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Capital TV | SD
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="https://lh3.googleusercontent.com/V5tg-A9mM5rfPTlOD8MVkLtIYyNYp5b7LThk_na9k82u77SzSJfxcD4MQioHXQ6iKgbI=w140" group-title="MUSICA" group-title="MUSICA",Melody Channel
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="MUSICA",California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
-
-#EXTINF:0 tvg-logo="https://media.port.hu/images/000/986/300x300/358.jpg" group-title="MUSICA",HiT Music Channel
-http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:0 tvg-logo="https://media.port.hu/images/000/986/300x300/359.jpg" group-title="MUSICA",Music Channel
-http://1music.hu/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOqPjsUgQYRP8vHGi2b9juoTROisJoNOO6sAzk13Xb9crRkVelQ" group-title="MUSICA",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.city.bg/theme_assets/city/images/logo.png" group-title="MUSICA",CITY RADIO TV
-https://tv.city.bg/play/tshls/citytv/index.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="http://vivotvhd.com/img/cha/3191.gif" group-title="MUSICA",UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="http://thaiptv.com/img/m2o.jpg" group-title="MUSICA",m2o tv
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="http://playgineering.com/wp-content/uploads/2017/02/Chaula2.png" group-title="MUSICA",CHAU Tv
-http://video.chaula.tv/hls/live/high/playlist_high.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/wpzgjWt.png" group-title="MUSICA",Radio Sanborja (Peru) SD
-https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w1611789128.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OXgDjwN.png" group-title="MUSICA",Radio Bruno (Italia) SD
-http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/05/fc/66/05fc6605-acfe-d39e-1b4a-87d3d5a548b0/source/512x512bb.jpg" group-title="MUSICA",MUSIC BOX
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple5/v4/05/fc/66/05fc6605-acfe-d39e-1b4a-87d3d5a548b0/source/512x512bb.jpg" group-title="MUSICA",MUSIC BOX | Eslovenia
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MUSICA", TV 538.
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+#EXTINF:0 tvg-logo="https://media.port.hu/images/000/986/300x300/359.jpg" group-title="MUSICA",Music Channel | Hungria
+http://1music.hu/1music.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv HD
+#EXTINF:0 tvg-logo="https://media.port.hu/images/000/986/300x300/358.jpg" group-title="MUSICA",Music Channel HiT | Hungria
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top HD | Argentina
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top SD | Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv HD | Chile
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://goo.gl/wFu6p6" group-title="MUSICA",TiVu
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2021-02/radio-best-music-tv-costa-rica.png" group-title="MUSICA",Radio Best Music RBM TV | Costa Rica
+https://cp.sradiotv.com:1936/8016/8016/chunklist_w1427361354.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OXgDjwN.png" group-title="MUSICA",Radio Bruno | Italia
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Radio Capital Tivu | Italia
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088375534395052033/jBKVUQbV_400x400.jpg" group-title="MUSICA",Radio Capital Tivu | Italia
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="MUSICA",Radio U | SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="MUSICA",Radio Contact Feel Good | Bélgica
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="MUSICA",RUTV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA",TVR
-https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://djlonchoradio.com/wp-content/uploads/2018/09/tv-300x300.jpg" group-title="MUSICA",Dj Loncho Radio Tv
-https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSICA",Music Top Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:0 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/04/Urban-FM-106.1.jpg" group-title="MUSICA",Urban (Argentina)
-http://cda1.streaming.ws/urban985tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision
+#EXTINF:-1 tvg-logo="http://a.mktgcdn.com/p/dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI/400x400.jpg" group-title="MUSICA",Radio Italia Vision | Italia
 http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://fs1.tv/typo3temp/pics/e506ab8c9d.jpeg" group-title="MUSICA",FS1
-http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wpzgjWt.png" group-title="MUSICA",Radio Sanborja | Peru
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w1611789128.m3u8
 
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/500px-Mezzo_Logo.svg.png" group-title="MUSICA",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lS4CAgN.png" group-title="MUSICA",Radio U | Estados Unidos
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/ARTS_TV_World.png" group-title="MUSICA",ARTS Tv
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/retromusic.png" group-title="MUSICA",RETRO MUSIC TV | Checoslovaquia
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIO",Radio ranchito morelia
+#EXTINF:-1 tvg-id="106796" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",Retro Plus TV | Chile
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="MUSICA",RETRO PLUS 2 TV | Chile
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="MUSICA",Rewind TV | Chile
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="MUSICA",RU TV | Rusia
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1 tvg-id="Telehit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png" group-title="MUSICA",telehit | México
+https://tinyurl.com/AMPER-TV-TELEHIT?c=450&p=1&k=ampertv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png" group-title="MUSICA",Telemusica | Argentina
+http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/0gL3FIN.png" group-title="MUSICA",Teleritmo | México
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
+#EXTINF:0 tvg-logo="http://theretrochannel.tv/img/theretrofb.jpg" group-title="MUSICA",The Retro Channel | Puerto Rico	
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/wFu6p6" group-title="MUSICA",TiVu | Italia
+http://capital-live-tv-01-hls.akamai.m/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RD4EAC0i0gU/VNV1DUqW6QI/AAAAAAAABlk/YG0lnk9XBYg/s1600/logo%2Btoplatino.jpg" group-title="MUSICA",TOP Latino TV | Peru
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-RD4EAC0i0gU/VNV1DUqW6QI/AAAAAAAABlk/YG0lnk9XBYg/s1600/logo%2Btoplatino.jpg" group-title="MUSICA",TOP Latino TV op2 | Peru
+http://173.236.60.186:1935/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TV-538-RGB_new.png/210px-TV-538-RGB_new.png" group-title="MUSICA", TV 538 | Paises Bajos
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="MUSICA",TV POP | Chile
+https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="MUSICA",TVR | Chile
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://vivotvhd.com/img/cha/3191.gif" group-title="MUSICA",UCSG TV | Ecuador
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2016/04/Urban-FM-106.1.jpg" group-title="MUSICA",Urban | Argentina
+http://cda1.streaming.ws/urban985tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png" group-title="MUSICA",Urban TV | España
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
+#EXTINF:-1 tvg-id="Video Rola" tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="MUSICA", Video Rola | México
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIO",Radio Ranchito Morelia
 http://server.laradio.online:8157/live.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIO",Radio ranchito morelia
+#EXTINF:-1 tvg-logo="http://www.radioranchito.com.mx/img/reproductor_chico_2016_2.png" group-title="RADIO",Radio Ranchito Morelia
 http://issultra.endavomedia.com:8000/ultraranchito.mp3
 
-#EXTINF:-1 tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg" group-title="RADIO",acustik Radio michoacan
+#EXTINF:-1 tvg-logo="http://www.mediagroup.mx/senal-en-vivo/wp-content/uploads/2017/12/AcustikMusica.jpg" group-title="RADIO",Radio Acustik Michoacan
 http://streamingcws20.com:1935/canal6mich/videocanal6mich/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la grupera 93.1 Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la z morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Z Morelia
 http://srmx.ddns.net:8100/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio kiss morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Kiss Morelia
 http://192.99.44.11:9861/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Radio tormenta 100.1 Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Radio Tormenta 100.1 Morelia
 https://cdn-embed.tunein.com/resources/media/blank.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio clasicos 99.1 morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Clasicos 99.1 Morelia
 http://64.207.155.136:8000/classics991.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio 40 principales morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio 40 Principales Morelia
 http://s4.mexside.net:7040/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio nicolaita Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Nicolaíta Morelia
 http://148.216.0.21:8000/rnic.m3u
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio disney morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Disney Morelia
 https://radiodisney.spiritmedia.mx/xhfo921_m
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio aguerrido morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Aguerrido Morelia
 https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio mix 101.7 morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Mix 101.7 Morelia
 https://17853.live.streamtheworld.com/XHEMMAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio maxima 100.9 morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Maxima 100.9 fm Morelia
 http://omegaingenieria.com:8034/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio capital fm 97.3 morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Capital 97.3 fm Morelia
 http://14933.live.streamtheworld.com/XHOREAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio emprende Morelia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Emprende Morelia
 http://ample-zeno-12.radiojar.com/6mtqwzay0vduv?rj-ttl=5&rj-token=AAABZaoX9pCMFTEjcDKKV2wy6IgGV7uV63DPg5-0qjph6d_ql3HXhg
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIO",Radio la poderosa Uruapan michoacan
+#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIO",Radio La Poderosa Uruapan Michoacán
 http://stream2.dyndns.org:8000/xhip.mp3
 
-#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIO",Radio la poderosa Uruapan michoacan
+#EXTINF:-1 tvg-logo="http://www.radioramamichoacan.com/lapoderosa/logo%20poderosa%20URUAPAN%2089.png" group-title="RADIO",Radio La Poderosa Uruapan Michoacán
 http://5.79.86.14:8150/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la mexicana 102.1 Uruapan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Mexicana 102.1 Uruapan
 http://5.79.86.14:8199/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio candela 91.1 uruapan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Candela 91.1 Uruapan
 http://167.114.116.223:3334/stream/1/streams.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio los 40 principales Uruapan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Los 40 Principales Uruapan
 http://5.79.86.14:8202/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la ley 94.9  pazcuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Ley 94.9  Patzcuaro
 https://streamingv2.shoutcast.com/la-ley-949-fm
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la pura ley apatzingan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Pura Ley Apatzingan
 https://streamingv2.shoutcast.com/la-pura-ley-921-fm
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la ranchera 98.3 apatzingan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Ranchera 98.3 Apatzingan
 http://167.114.116.223:6784/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la ranchera 98.3 apatzingan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Ranchera 98.3 Apatzingan
 http://167.114.116.223:6784/stream/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio candela 95.1 apatzingan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Candela 95.1 Apatzingan
 http://167.114.116.223:9634/stream/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio las voz de los purepechas cheran
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la Voz de los Purepechas Cheran
 http://radios.inpi.gob.mx:8080/xepur
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Voz de la Sierra Oriente tuxpan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Voz de la Sierra Oriente Tuxpan
 http://radios.inpi.gob.mx:8080/xetumi
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Comunitaria Jenpoj Mexico
 http://espora.org:8000/jenpojradio
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio juchariuinapekua Santa Fe de la Laguna
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Juchariuinapekua Santa Fe de la Laguna
 http://87.117.208.118/stream.mp3?ipport=87.117.208.118_29244
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",RadioTuri turicuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",RadioTuri Turicuaro
 http://radioturi.radiostream123.com/media/playradio1302766.asx
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",RADIO PIREKUAS
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio PIREKUAS
 http://162.210.196.140/stream.mp3?ipport=162.210.196.140_32113
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Purenchecuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Purenchécuaro Michoacán
 https://sp2.servidorrprivado.com/8080/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio santa ana - California
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la catedral de la musica zamora
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la Catedral de la Musica Zamora
 http://transmision.radiozamora.com.mx:8000/catedral
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la zamorana 103.9 zamora
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la Zamorana 103.9 Zamora
 http://transmision.radiozamora.com.mx:8000/lazamorana
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio candela 94.1 zamora
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Candela 94.1 Zamora
 http://transmision.radiozamora.com.mx:8000/candela
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio exa zamora
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Exa Zamora
 http://live.exafmzamora.mx:55252/exafmzamora.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio ke buena 92.9 fm los reyes
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Ke Buena 92.9 fm Los Reyes
 http://18433.live.streamtheworld.com/KEBUENAAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la candela 97.7 zacapu
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio erandi tangacicuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Erandi Tangacicuaro
 http://192.99.0.170:5088/;streams.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la pantera jiquilpan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Pantera Jiquilpan
 http://192.187.112.50:8434/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio purepero
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Purepero
 http://67.222.7.169:8080/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio impacto jiquilpan
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Impacto Jiquilpan
 http://192.187.112.50:8234/stream/1/
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio dual estereo la piedad
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Dual Estereo La Piedad
 http://72.249.55.100:9846/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio pia la piedad
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Pia La Piedad
 http://72.249.55.100:9562/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio sol 103.9 ciudad hidalgo
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Sol 103.9 Ciudad Hidalgo
 https://streamingv2.shoutcast.com/radio-sol-1039-fm
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio azul lazaro cardenas
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Azul Lazaro Cardenas
 https://s2.mexside.net/8010/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio fantasia zitacuaro
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Fantasia Zitacuaro
 http://162.212.56.146:8344/stream.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio 88.9 noticias cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio 88.9 Noticias Cd. México
 https://18493.live.streamtheworld.com/XHMFM_SC
 
-#EXTINF:-1 group-title="RADIO",Imagen Radio
+#EXTINF:-1 group-title="RADIO",Radio Imagen Radio
 http://18313.live.streamtheworld.com/XEDAFM.mp3
 
-#EXTINF:-1 group-title="RADIO",Radio Mexiquense 91.7 FM Amecameca
+#EXTINF:-1 group-title="RADIO",Radio Mexiquense 91.7 fm Amecameca
 https://streamingcwsradio30.com:7047/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio wdeportes cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio WDeportes Cd. México
 http://17963.live.streamtheworld.com/TDW730AMAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio mvs noticias
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio MVS Noticias
 http://20323.live.streamtheworld.com/XHMVSFM_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Opus 94 94.5 fm
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Opus-94 94.5 fm
 https://s2.mexside.net/8016/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Tropicalisima 1350 am	
 https://s2.mexside.net/8030/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio la sabrosita 590 cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Sabrosita 590 Cd. México
 https://17613.live.streamtheworld.com/XEPHAMAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio el fonografo cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio El Fonografo Cd. México
 http://17593.live.streamtheworld.com/XEJP_AMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=bb34fde7-a04f-457a-985a-4107c6ba13f5
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio XEB La B grande cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio XEB La B grande Cd. México
 https://s2.mexside.net/8024/stream
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Aire libre 105.3
 https://airelibreliveip.nyx.mx:8443/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Aire libre 105.3 Musica Continua
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Aire Libre 105.3 Musica Continua
 https://airelibremusicip.nyx.mx:8443/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio joya-93.7 cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Joya-93.7 Cd. México
 https://18593.live.streamtheworld.com/XEJP_FMAAC.aac
 
 #EXTINF:-1 tvg-logo="" group-title="RADIO",Radio Panda Show
@@ -1800,64 +1832,64 @@ http://perseus.shoutca.st:9376/stream?aw_0_1st.playerid=qZjjnm85&aw_0_1st.skey=1
 #EXTINF:-1 tvg-logo="" group-title="RADIO",Radio Panda fm
 http://perseus.shoutca.st:9380/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio amor cdmexico
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Amor Cd. Mexico
 https://19193.live.streamtheworld.com/XHSHFMAAC_SC
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio mexico internacional
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Mexico Internacional
 https://s2.mexside.net/8020/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio ranchito guadalajara
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Ranchito Guadalajara
 http://192.99.16.17:9870/;stream/1
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio La Ranchera de Monterrey
 http://streamingcwsradio20.com:9410/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio amor musica romantica guadalajara
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Amor Musica Romantica Guadalajara
 http://14543.live.streamtheworld.com/XHPIFMAAC.aac
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio amor villahermosa
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Amor Villahermosa
 http://15383.live.streamtheworld.com/XHOPFM.mp3
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio bonita oaxaca
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Bonita Oaxaca
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio infinita fm Radio
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Infinita fm Radio
 http://198.15.77.50:9586/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia salsa rosa
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Salsa Rosa
 http://64.37.50.226:8036/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia salsa dura
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Salsa Dura
 http://64.37.50.226:8054/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia bachata
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia vallenata
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Vallenata
 http://64.37.50.226:8042/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia crossover
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Crossover
 http://64.37.50.226:8006/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia la viejoteca de richy
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia la Viejoteca de Richy
 http://64.37.50.226:8018/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia bohemia
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Bohemia
 http://64.37.50.226:8024/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio colombia romantica
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Colombia Romantica
 http://64.37.50.226:8030/stream
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio romanticas inolvidables morelos
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Romanticas Inolvidables Morelos
 https://node-09.zeno.fm/6m1ba7yt3vduv
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio romanticas inolvidables
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Romanticas Inolvidables
 https://node-26.zeno.fm/6m1ba7yt3vduv?rj-ttl=5&rj-token=AAABbOht4Wom1Pf5HTn7n4QeZ_QXMwJwuJTklw67fX2PxIbcrArfMQ
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio romanticas
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Romanticas
 http://216.117.166.208:9994/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio ochentas
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Baladas Viejitas Bonitas
@@ -1866,10 +1898,10 @@ https://sc10.conectarhosting.com/proxy/bonitas?mp=/stream
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Recuerdos Inolvidables
 http://167.114.173.72:8030/;
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio cumbias inmortales
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Cumbias Inmortales
 https://panel.retrolandigital.com/radio/8120/listen
 
-#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio nortenas inmortales
+#EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Nortenas Inmortales
 http://ample-zeno-22.radiojar.com/geepk7r5n6duv?rj-ttl=5&rj-token=AAABZ2NkwpX-Pn_FwildP-4-qsSrZ-ZFxoVmsiG9jfd39loh6T2Blw
 
 #EXTINF:-1 tvg-logo="Radio.png" group-title="RADIO",Radio Viva El Mariachi
@@ -2323,18 +2355,6 @@ https://www139.hlsmp4.com/token=V0Wn0hXbnKCJmA07ivmdBg/1560673338/0.0.0.0/26/d/b
 https://gloria.tv/streaming/8wpv2xLASuLkCLi97cu6opSSc/hls/master.m3u8
 
 
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://127.0.0.1/",PELICULA LOS NUEVOS MUTANTES
-http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://127.0.0.1/",PELÍCULA FUGA DE PRETORIA
-http://player.flumx.mx/Moviesmp4/Fuga+de+Pretoria+-+Escape+From+Pretoria+(2020)
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://127.0.0.1/",PELÍCULA GODZILLA
-http://player.flumx.mx/Moviesmp4/Godzilla-1998.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://127.0.0.1/",BATMAN VS SUPERMAN
-http://flumx.mx/Moviesmp4/batman-v-superman-el-amanecer-de-la-justicia.mp4
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://127.0.0.1/",AMOR DE CALENDARIO
-http://player.flumx.mx/Moviesmp4/Amor+de+calendario+-+Holidate+(2020)
-
 #EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/07/Ant-Man-2015-cover.jpg" group-title="MOVIES",Ant Man (2015)
 https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
 
@@ -2344,14 +2364,8 @@ https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv
 #EXTINF:0 group-title="MOVIES",Cuando nos Conocimos
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO (1988)
-https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
-
 #EXTINF:-1 group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-
-#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO
-http://cecegeek@goo.gl/YowBkJ
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO (TERROR)
 http://bit.ly/MRAQCCHUCK
@@ -2361,12 +2375,6 @@ https://archive.org/download/080520712070508aCh/08052071.mkv
 
 #EXTINF:-1 group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO 2
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-
-#EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg" group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO 2 (1990)
-https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
-
-#EXTINF:-1 group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO II
-http://cecegeek@goo.gl/xnNiv2
 
 #EXTINF:0 group-title="MOVIES",CHUCKY EL MUNECO DIABOLICO II (TERROR)
 https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv
@@ -2392,12 +2400,6 @@ http://ow.ly/FXZ930eWtrs
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg" group-title="MOVIES",Deadpool
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
-https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
-
-#EXTINF:-1 group-title="MOVIES",El Justiciero 2
-http://ia801507.us.archive.org/5/items/jus2regio/jus2regio.mp4
-
 #EXTINF:0 group-title="MOVIES",El Mal Dentro (2017)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
@@ -2413,23 +2415,11 @@ https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 #EXTINF:0 group-title="MOVIES",La Fuerza De La Ilusion
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 
-#EXTINF:0 group-title="MOVIES",LA MINA (2017)
-https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
-
-#EXTINF:0 group-title="MOVIES",LA MINA (2017)
-https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
-
-#EXTINF:0 group-title="MOVIES",LA MINA (2017)
-http://bit.ly/THEMINE
-
 #EXTINF:0 group-title="MOVIES",Mascota Humana (2016)
 http://bit.ly/MASCOTAHUMANA
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",MI VIDA A LOS 17
 http://bit.ly/2v16m9z
-
-#EXTINF:-1 group-title="MOVIES",Next Gen
-https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg" group-title="MOVIES",Nocturnal Animals (2016)
 https://archive.org/download/NocturnalAnimals20161080pFULLHD/Nocturnal%20Animals%20(2016)%201080p%20FULL%20HD.mp4
@@ -2439,12 +2429,6 @@ https://archive.org/download/NocturnalAnimals20161080p60FPS/Nocturnal%20Animals%
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="MOVIES",Nosotros Los Nobles
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="MOVIES",Pet (2016)
-https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" group-title="MOVIES",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 
 #EXTINF:0 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
 https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
@@ -2461,14 +2445,8 @@ https://archive.org/download/RulesDontApply20161080pFULLHD/Rules%20Dont%20Apply%
 #EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="MOVIES",Rules Don't Apply (2016)*
 https://archive.org/download/RulesDontApply20161080p60FPS/Rules%20Dont%20Apply%20(2016)%201080p%2060%20FPS.mp4
 
-#EXTINF:-1 group-title="MOVIES",SADAKO Y KAYAKO
-https://goo.gl/iU1U32
-
 #EXTINF:0 group-title="MOVIES",SAHARA (2017)
 http://bit.ly/SAHARAMOVIE
-
-#EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="MOVIES",Sahara (2017)
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="MOVIES",Sand Castle (2017)
 https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
@@ -2479,12 +2457,6 @@ http://bit.ly/MRAQCASTI
 #EXTINF:-1 group-title="MOVIES",Sand Castle
 http://cecegeek@goo.gl/FDyHpL
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg" group-title="MOVIES",Sandy Wexler (2017)
-https://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-
-#EXTINF:0 group-title="MOVIES",Sandy Wexler HD(2017) (Dual Audio)
-https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-
 #EXTINF:0 group-title="MOVIES",Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
 
@@ -2494,14 +2466,8 @@ http://cecegeek@goo.gl/kyH56Z
 #EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg" group-title="MOVIES",SAW VIII SUBTITULADO
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",SPECTRE
-https://goo.gl/3KGMLf
-
 #EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg" group-title="MOVIES",Terminus
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-
-#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="MOVIES",The Cloverfield Paradox
-https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/somewhatnerdy.com/wp-content/uploads/2017/03/The-Evil-Within-Movie-Poster.jpg" group-title="MOVIES",The Evil Within (2017)
 https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi
@@ -2512,9 +2478,6 @@ http://bit.ly/EVILWITHIN_MOVIE
 #EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="MOVIES",The Purge (2013)
 https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
 
-#EXTINF:-1 group-title="MOVIES",Tragedy Girls
-https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
-
 #EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="MOVIES",Under the Sea 3D (2009)
 https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 
@@ -2522,13 +2485,7 @@ https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
 
 #EXTINF:-1 group-title="MOVIES",VOLVER AL FUTURO 2
-https://ia801303.us.archive.org/35/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4
-
-#EXTINF:-1 group-title="MOVIES",VOLVER AL FUTURO 2
 https://mataocio-cdn-7.mataocio-cdn7.workers.dev/Pack%25201/VOLVER%2520AL%2520FUTURO%25202.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="MOVIES",VOLVER AL FUTURO 3 (1989)
-https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",VOLVER AL FUTURO 3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
