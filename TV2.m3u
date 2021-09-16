@@ -669,6 +669,9 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 https://rtvelivestream.akamaized.net/clan_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="NIÑOS Y JOVENES",Dreiko TV | Panamá
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/chunklist_w76700521.m3u8
+
+#EXTINF:-1 tvg-id="Dreiko TV" tvg-logo="https://i.imgur.com/eaqJWmD.png" group-title="NIÑOS Y JOVENES",Dreiko TV | Panamá
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
 #EXTINF:-1 tvg-id="El Chavo" tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="NIÑOS Y JOVENES",El Chavo | Chile
@@ -2474,6 +2477,98 @@ http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/671.ts
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/669.ts
 #EXTINF:-1 group-title="24/7 LMS-3",24/7.. bajoterra
 http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/662.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="DEPORTES-LMS",BT SPORT 1
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",BT SPORT 2
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",NBA
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",GOLF
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS", Premiere Football HD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Premiere Football HD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",TRUESPORT HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS HD
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",FOX SPORTS 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",ESPN NORTE
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Fox Sport Norte
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",SKY Sport
+http://31.220.41.90:8081/live/skysports-maineventz.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",TNT SPORT
+http://31.220.41.87:8081/live/us-tnt.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 01
+http://77.247.109.92/hls/W1.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 11
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 13
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 15
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 19
+http://23.237.78.54/live-1000/263/playlist.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 38
+https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 70 TyC SPORT
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/be5636c6c01057bec95887daaa1fa93a/playlist.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 71 ESPN BRASIL HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8?SBN
+
+#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 73 FS1 HD
+http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8?SBN
+
 
 
 
